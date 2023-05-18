@@ -11,3 +11,9 @@ function MovieList() {
 }
 
 export default MovieList;
+
+// API-nyckel
+// 077207546687be83948995e76c1930a6
+
+//Exempel på API begäran: 
+//https://api.themoviedb.org/3/movie/550?api_key=077207546687be83948995e76c1930a6
