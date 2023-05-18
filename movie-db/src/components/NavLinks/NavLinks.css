@@ -5,3 +5,8 @@ ul {
  margin-right: 0.8rem;
  text-transform: uppercase;
 }
+
+.nav-links a.active {
+ color:  rgb(232, 232, 146); /* Ändra färgen på den aktiva länken */
+
+}
